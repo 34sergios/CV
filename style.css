@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+}
+input, label{
+    display: block;
+}
+input{
+    border: none;
+    outline: ;
+    border-radius: 5px;
+}
+
+
+<style>
+    body{
+        background-color:#fdfdfd
+    }
